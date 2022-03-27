@@ -104,7 +104,6 @@
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.82.146.157:8000/repository/paypal_prod-snapshots/</url>
 	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
